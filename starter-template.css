@@ -1,0 +1,47 @@
+body {
+  padding-top: 5rem;
+  overflow-x: hidden;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.navbar {
+  background: #384C38;
+}
+a{
+  color: #ffffff;
+}
+
+main{
+margin: 2rem 0rem 2rem 0rem;
+}
+main .container .row h2{
+  font-size: 20px;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main p{
+  display: flex;
+  text-align: justify;
+}
+
+
+main .btn-color{
+  background: #384C38;
+  color: rgb(255, 255, 255);
+  width: 85%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+section.news-headlines .col-md-4{
+  text-align: center;
+  background-color: #F4F4F4;
+  color: #040a2c;
+  margin: 2rem 0rem 2rem 0rem;
+}
+
